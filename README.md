@@ -1,9 +1,9 @@
 # Ecommerce_online_shopping_Website
 This is a Final Year Project on Shopping Website
 Front-End
-HTML
-CSS    
+HTML,
+CSS,  
 JS
 Back-End
-PHP
+PHP,
 MySQl
