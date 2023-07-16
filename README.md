@@ -6,4 +6,4 @@ CSS,
 JS
 Back-End
 PHP,
-MySQl
+MySQL
